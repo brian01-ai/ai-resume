@@ -19,10 +19,6 @@
   --color-badge-yellow-text: #73321b;
 }
 
-::-webkit-scrollbar {
-  display: none;
-}
-
 html,
 body {
   @apply bg-white;
